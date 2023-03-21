@@ -1,9 +1,15 @@
-# redistore
+# rdbstore
 
-[![GoDoc](https://godoc.org/github.com/boj/redistore?status.svg)](https://godoc.org/github.com/boj/redistore)
-[![Build Status](https://travis-ci.org/boj/redistore.svg?branch=master)](https://travis-ci.org/boj/redistore)
+[//]: # ()
+[//]: # ([![GoDoc]&#40;https://godoc.org/github.com/boj/redistore?status.svg&#41;]&#40;https://godoc.org/github.com/boj/redistore&#41;)
+
+[//]: # ([![Build Status]&#40;https://travis-ci.org/boj/redistore.svg?branch=master&#41;]&#40;https://travis-ci.org/boj/redistore&#41;)
 
 A session store backend for [gorilla/sessions](http://www.gorillatoolkit.org/pkg/sessions) - [src](https://github.com/gorilla/sessions).
+
+This project comes from boj/redistore. For some reason, that project has no reviewer to keep it fresh, so decided to fork a new one to rebuild it.
+
+All rights belongs to boj/redistore, and license never changed, but new mod name is github.com/wbylovesun/rdbstore.
 
 ## Requirements
 
